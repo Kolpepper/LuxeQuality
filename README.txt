@@ -5,7 +5,7 @@ Test cases are placed in a 'test-cases' folder.
 Reports are place in a 'playwright-report' folder.
 
 Test for cypress.
-CypressAutomation/cypress/e2e/telnyx/
+CypressAutomation/cypress/e2e/
 
 
 Version:
