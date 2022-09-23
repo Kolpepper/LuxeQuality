@@ -6,4 +6,3 @@ Test for playwright.
 
 Version:
 Nodejs - 16.17.0
-
